@@ -1,0 +1,17 @@
+.Footer {
+    background-color: #0266a2;
+    height: 50px;
+    color: #fff;
+    text-align: left;
+    padding: 15px 15px 0px 15px;
+}
+
+.footer-text {
+    display: inline;
+    margin-right: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.right {
+    float: right;
+}

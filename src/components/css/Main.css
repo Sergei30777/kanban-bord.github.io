@@ -1,0 +1,8 @@
+.Main {
+    background-color: #0079be;
+    width: 100%;
+    text-align: center;
+    height: calc(100vh - 100px);
+    padding-top: 10px;
+    
+}

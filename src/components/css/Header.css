@@ -1,0 +1,11 @@
+.Header {
+    background-color: #0266a2;
+    height: 50px;
+    color: #fff;
+    text-align: left;
+    padding: 15px 15px 0px 15px;
+}
+
+.header-text {
+    font-family: Arial, sans-serif;
+}
